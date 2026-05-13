@@ -1,0 +1,2 @@
+# MSSQL-VE-MYSQL-LE-OKUL-DATABASE
+yeni database
